@@ -1,15 +1,15 @@
 {
-  "title": "𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂 ‘𝓼 𝓦𝓲𝓭𝓰𝓮𝓽𝓼",
-  "description": "汇集瑟瑟网页、直播、VOD、RSS播客等模块",
+  "title": "Unable Widgets",
+  "description": "网页、直播、VOD、RSS播客等",
   "icon": "https://github.com/pack1r/ForwardWidgets/raw/main/icon.png",
   "widgets": [
     {
       "id": "jable",
       "title": "Jable",
-      "description": "获取Jable全站视频",
+      "description": "Jable 全站视频",
       "requiredVersion": "0.0.1",
       "version": "1.0.6",
-      "author": "nibiru",
+      "author": "Nibiru",
       "url": "https://raw.githubusercontent.com/pack1r/ForwardWidgets/refs/heads/main/widgets/jable.js"
     },
     {
@@ -24,16 +24,16 @@
     {
       "id": "Pornhub",
       "title": "Pornhub",
-      "description": "在线观看Pornhub",
+      "description": "在线观看 Pornhub",
       "requiredVersion": "0.0.1",
       "version": "1.0.4",
-      "author": "海带",
+      "author": "Haidai",
       "url": "https://raw.githubusercontent.com/Madai-v/ForwardWidgets/refs/heads/main/Widgets/ph.js"
     },
     {
       "id": "ti.bemarkt.javday",
       "title": "JAVDay",
-      "description": "获取 JAVDay 推荐",
+      "description": " JAVDay 推荐",
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Ti",
@@ -42,7 +42,7 @@
     {
       "id": "ti.bemarkt.javrate",
       "title": "JAVRate",
-      "description": "获取 JAVRate 推荐",
+      "description": " JAVRate 推荐",
       "requiredVersion": "0.0.1",
       "version": "2.1.0",
       "author": "Ti",
@@ -60,7 +60,7 @@
     {
       "id": "ti.bemarkt.vod.maccms",
       "title": "VOD",
-      "description": "获取 VOD 影视数据",
+      "description": " VOD 影视数据",
       "requiredVersion": "0.0.1",
       "version": "1.1.0",
       "author": "Ti",
@@ -69,7 +69,7 @@
     {
       "id": "ti.bemarkt.podcast",
       "title": "Podcast",
-      "description": "获取 RSS 播客数据",
+      "description": " RSS 播客数据",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
       "author": "Ti",
@@ -77,8 +77,8 @@
     },
     {
       "id": "live",
-      "title": "直播(电视+网络)",
-      "description": "解析直播订阅链接【五折码：CHEAP.5;七折码：CHEAP】",
+      "title": "直播",
+      "description": "解析直播订阅链接",
       "requiredVersion": "0.0.1",
       "version": "1.0.8",
       "author": "huangxd",
@@ -87,10 +87,10 @@
     {
       "id": "tv_live",
       "title": "电视台",
-      "description": "获取热门电视直播频道",
+      "description": "热门电视直播频道",
       "requiredVersion": "0.0.1",
       "version": "1.0.0",
-      "author": "两块",
+      "author": "Liankuai",
       "url": "https://raw.githubusercontent.com/2kuai/ForwardWidgets/refs/heads/main/Widgets/TvLive.js"
     }
   ]
